@@ -1,6 +1,6 @@
 # ESP32 Waveshare LVGL Dashboard
 
-Interactive ESP32 touchscreen dashboard built with LVGL and SquareLine Studio. This project features hardware-linked UI elements designed to act similar to PLC tags.
+Interactive ESP32 touchscreen dashboard built with LVGL and SquareLine Studio. This project features hardware-linked UI elements.
 
 ## Features
 * **Relay Control:** On-screen buttons that change state (Red = Off, Green = On) based on hardware relay variables using LVGL states.
